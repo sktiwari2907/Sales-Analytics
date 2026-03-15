@@ -1,0 +1,87 @@
+.ag-root-wrapper {
+    border: none;
+}
+
+.editable-cell {
+  background-color: #fffbe6;
+}
+
+/* editing (double-click) */
+.ag-theme-quartz
+  .ag-cell.ag-cell-inline-editing
+  .ag-cell-value,
+.ag-theme-quartz
+  .ag-cell.ag-cell-inline-editing
+  input {
+  background-color: #fffbe6 !important;
+}
+
+.delete {
+    background: url('./delete.png') no-repeat center center;
+    border: none;
+}
+
+.delete:disabled {
+  cursor: not-allowed;
+  opacity: 0.5; /* visually indicate disabled */
+}
+
+.delete:focus {
+    outline: transparent;
+}
+
+.add {
+    background: url('./add.png') no-repeat center center;
+    border: none;
+}
+
+.add:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.add:focus {
+    outline: transparent;
+}
+
+.import {
+    background: url('./import.png') no-repeat center center;
+    border: none;
+}
+
+.import:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.import:focus {
+    outline: transparent;
+}
+
+.export {
+    background: url('./export.png') no-repeat center center;
+    border: none;
+}
+
+.export:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.export:focus {
+    outline: transparent;
+}
+
+.save {
+    background: url('./save.png') no-repeat center center;
+    border: none;
+}
+
+.save:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.save:focus {
+    outline: transparent;
+}
