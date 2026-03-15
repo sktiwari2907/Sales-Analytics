@@ -13,13 +13,30 @@ https://sales-analytics-wine.vercel.app/
 Backend API (Deployed on Render)
 https://sales-analytics-hu8k.onrender.com/
 
+🔑 Demo Credentials
+
+You can use the following credentials to explore the dashboard:
+
+Email: Shivam Tiwari
+Password: shsh#677227nsShshs728
+
+Role: Sales Manager
+
+Email: admin
+Password: shsh#677227nsShshs728
+
+Role: Admin
+
+Email: Read Only
+Password: shsh#677227nsShshs728
+
+Role: Admin
+
 > Note: Signup requires **admin approval** before users can access the dashboard.
 
 ---
 
 # 🖼 Dashboard Preview
-
-![Sales Dashboard](./assets/dashboard.png)
 
 The dashboard provides:
 
